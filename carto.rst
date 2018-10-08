@@ -649,12 +649,20 @@ Bienvenue dans les géométries non euclidiennes
 
 ----
 
-Bref, là je joue des claquettes
-===============================
+Bref, là je joue des claquettes comme tout le monde
+===================================================
 
 Ne me lynchez pas.
 
-(écran de fumée, sujet suivant)
+On prend en X un angle, et en Y un angle.
+
+Évidemment que nos cartes sont «fausses», mais vraies
+elles seraient illisibles.
+
+.. note::
+
+    faire un snapshot dans qgis d'une projection plus fidèle
+
 
 ----
 
